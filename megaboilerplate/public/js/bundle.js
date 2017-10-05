@@ -4302,33 +4302,6 @@ var Home = function (_get__$Component) {
                   )
                 )
               )
-            ),
-            _react2.default.createElement(
-              'div',
-              { className: 'col-sm-4' },
-              _react2.default.createElement(
-                'div',
-                { className: 'panel' },
-                _react2.default.createElement(
-                  'div',
-                  { className: 'panel-body' },
-                  _react2.default.createElement(
-                    'h3',
-                    null,
-                    'Heading'
-                  ),
-                  _react2.default.createElement(
-                    'p',
-                    null,
-                    'Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.'
-                  ),
-                  _react2.default.createElement(
-                    'a',
-                    { href: '#', role: 'button', className: 'btn btn-default' },
-                    'View details'
-                  )
-                )
-              )
             )
           ),
           _react2.default.createElement(_Footer_Component, null)
