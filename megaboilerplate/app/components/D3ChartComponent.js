@@ -4,7 +4,7 @@ import { connect } from 'react-redux';
 class D3ChartComponent extends React.Component {
   render() {  
     return (            
-      <div id="chart-component" className={chartComponent} >        
+      <div id="chart-component" className='chart' >        
           <div className="col-sm-12">
             <div className="panel">
               <div className="panel-body">
